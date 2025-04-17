@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hello World!
 Olá! Meu nome é Maria Tainá e sou apaixonada por tecnologia e desenvolvimento web. Desde que tive meu primeiro contato com programação, me encantei com a possibilidade de transformar ideias em soluções reais e funcionais.<br><br>Sou uma pessoa curiosa, dedicada e sempre em busca de novos conhecimentos. Acredito que o aprendizado contínuo é essencial nessa área que está em constante evolução. Meu objetivo é contribuir com projetos que façam a diferença e que me desafiem a crescer como desenvolvedora.
 
 
